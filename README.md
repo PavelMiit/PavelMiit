@@ -1,4 +1,3 @@
-[![MasterHead](https://todosqa.com/wp-content/uploads/2017/05/testing-1.jpg)](https://www.linkedin.com/in/pavel-mitichkin)
 <h1 align="center">Hi 👋, I'm Pavel</h1>
 <h3 align="center">I am junior qa-enginer. Now I search work or internship.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
