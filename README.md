@@ -5,8 +5,6 @@
 
 - 📝 Examples of my work [test artifacts](https://github.com/PavelMiit/Test_artifacts)
 
-- 👨‍💻 I’m currently learning **Сourses QA by Vadim Ksendzov**
-
 - 💬 My Telegram **https://t.me/Pavel_Miit**
 
 - 📫 My e-mail **pmmitchkin@gmail.com**
